@@ -1,0 +1,209 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1400px) and (max-width: 1850px) {
+  .top-link {
+	right: -50px;
+}
+.home-active.owl-carousel .owl-nav div.owl-next {
+	right: 10%;
+}
+.faq-content {
+	padding-left: 75px;
+	padding-right: 20;
+}
+.faq-content h2 {
+	margin-bottom: 100px;
+}
+
+
+}
+
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1399px) {
+  .top-link {
+	right: -50px;
+}
+.header-end ul.main-nav li a {
+	padding: 35px 25px;
+}
+.single-slider {
+	background-position: right center;
+}
+.services-content.pl-40 {
+	padding-left: 20px;
+}
+.services-active i{
+  left: 20px;
+}
+.about-wrapper.mt-40.pl-70 {
+	padding: 0;
+}
+.home-active.owl-carousel .owl-nav div.owl-next {
+	right: 10%;
+}
+.features-content h2 {
+	font-size: 55px;
+}
+.faq-content {
+	padding-left: 30px;
+	padding-right: 0;
+}
+.faq-content h2 {
+	margin-bottom: 100px;
+  font-size: 55px;
+}
+
+
+
+
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+  .top-info li {
+	margin-left: 10px;
+}
+.top-info::before {
+	left: 178px;
+}
+.top-link {
+	right: -7%;
+}
+.header-end ul.main-nav li a {
+	padding: 35px 15px;
+}
+.expendent-menu span {
+	padding: 12px 10px;
+  margin-left: 5px;
+}
+.about-content h2 {
+	font-size: 40px;
+}
+.about-wrapper.mt-40.pl-70 {
+	padding-left: 10px;
+	margin: 0;
+}
+.author-signeture {
+	left: 60%;
+}
+.about-content p {
+	margin-bottom: 6px;
+}
+
+
+.cta-bg {
+	min-height: 260px;
+}
+.cta-area .section-title h2 {
+	display: block;
+}
+.cta-area .section-title p {
+	display: block;
+	margin: 0;
+}
+.features-content h2 {
+	font-size: 47px;
+}
+.features-content p {
+	width: 70%;
+}
+.features-content.mt-40 {
+	margin: 0;
+}
+.portfolio-area .section-title h2 {
+	font-size: 50px;
+}
+.home-active.owl-carousel .owl-nav div {
+	left: 72%;
+}
+.faq-content h2 {
+	margin-bottom: 80px;
+}
+.faq-content {
+	padding-left: 20px;
+	padding-right: 10px;
+}
+.faq-content h2 {
+	font-size: 48px;
+}
+.team-area .section-title h2 {
+	font-size: 55px;
+}
+
+
+}
+
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.section-title {
+	text-align: center;
+}
+.section-title h2 {
+	font-size: 45px;
+	display: block;
+}
+.section-title p {
+	display: block;
+	margin-left: 0;
+	margin-bottom: 30px;
+}
+  .header-top {
+	padding: 20px 0;
+}
+
+.header-end .expendent-menu {
+	display: none;
+}
+.header-end ul.main-nav li a {
+	padding: 35px 30px;
+}
+.about-wrapper {
+	padding: 40px 0;
+}
+.home-active.owl-carousel .owl-nav div {
+	left: 70%;
+}
+.cta-area {
+	padding: 40px 0;
+}
+.cta-bg {
+	min-height: 270px;
+}
+.thum-icon {
+	left: -40px;
+}
+.faq-content {
+	padding: 50px 30px;
+}
+.faq-content h2 {
+	margin-bottom: 50px;
+}
+}
+
+
+/* small mobile :320px. */
+@media (max-width: 767px) {
+  .header-top {
+  padding: 20px 0;
+}
+
+  .mobile-manu span {
+  	display: block;
+  }
+  .header-end .expendent-menu {
+  	display: none;
+  }
+  .mean-manu.main-manu {
+	display: none;
+}
+.header-end .container-fluid {
+	padding: 0;
+}
+
+}
+
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+
+}
